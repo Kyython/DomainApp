@@ -1,0 +1,6 @@
+c:\users\асанали\source\repos\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe
+c:\users\асанали\source\repos\DownloadFile\DownloadFile\bin\Debug\DownloadFile.pdb
+c:\users\асанали\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csprojAssemblyReference.cache
+c:\users\асанали\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csproj.CoreCompileInputs.cache
+c:\users\асанали\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.exe
+c:\users\асанали\source\repos\DownloadFile\DownloadFile\obj\Debug\DownloadFile.pdb

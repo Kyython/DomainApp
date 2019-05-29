@@ -1,0 +1,6 @@
+c:\users\асанали\source\repos\ExponentiationApp\ExponentiationApp\bin\Debug\ExponentiationApp.exe
+c:\users\асанали\source\repos\ExponentiationApp\ExponentiationApp\bin\Debug\ExponentiationApp.pdb
+c:\users\асанали\source\repos\ExponentiationApp\ExponentiationApp\obj\Debug\ExponentiationApp.csprojAssemblyReference.cache
+c:\users\асанали\source\repos\ExponentiationApp\ExponentiationApp\obj\Debug\ExponentiationApp.csproj.CoreCompileInputs.cache
+c:\users\асанали\source\repos\ExponentiationApp\ExponentiationApp\obj\Debug\ExponentiationApp.exe
+c:\users\асанали\source\repos\ExponentiationApp\ExponentiationApp\obj\Debug\ExponentiationApp.pdb

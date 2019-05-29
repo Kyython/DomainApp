@@ -1,0 +1,21 @@
+﻿<Window x:Class="DomainApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DomainApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="gray">
+        <Button Name="downloadFileButton" Click="DownloadFileButtonClick" Content="Download" BorderBrush="Black" Background="LightGray" HorizontalAlignment="Left" Margin="84,219,0,0" VerticalAlignment="Top" Width="123" RenderTransformOrigin="0.939,-1.191" Height="39"/>
+        <Button Name="exponentiationButton" Click="ExponentiationButtonClick" Content="To the extent" BorderBrush="Black" Background="LightGray"  HorizontalAlignment="Left" Margin="523,219,0,0" VerticalAlignment="Top" Width="123" RenderTransformOrigin="0.304,0.391" Height="39"/>
+        <StatusBar Background="LightGray" Height="28" VerticalAlignment="Bottom">
+            <ProgressBar Name="progressBar" Visibility="Collapsed" Width="120" Height="18" IsIndeterminate="True"/>
+            <TextBlock Name="statusTextBlock" Text="Done"/>
+        </StatusBar>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" FontSize="19" Text="Нажмите на кнопку чтобы скачать файл - TestFile.db размером 100Мб" VerticalAlignment="Top" Height="85" Width="298"/>
+        <Image Source="https://image.flaticon.com/icons/png/512/58/58927.png" HorizontalAlignment="Left" Height="100" Margin="96,100,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image Source="https://image.flaticon.com/icons/png/512/58/58927.png" HorizontalAlignment="Left" Height="100" Margin="535,100,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBlock HorizontalAlignment="Left" Margin="420,10,0,0" TextWrapping="Wrap" FontSize="19" Text="Нажмите на кнопку чтобы возвести число 99999 в 99999 степень. Ответ сохранится в файле BigNumber.txt" VerticalAlignment="Top" Height="85" Width="354"/>
+    </Grid>
+</Window>
